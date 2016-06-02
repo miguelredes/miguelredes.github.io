@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</HEAD>
+<BODY bgcolor="#82CAFA">
+ <hr>		
+
+<UL>
+<LI>En las redes de computadoras, la dirección MAC (siglas en inglés de media access control; en español "control de acceso al medio") es un identificador de 48 bits (6 bloques hexadecimales) que corresponde de forma única a una tarjeta o dispositivo de red.
+<LI> Que é a MAC (HWaddr) dun ordenador?- Unha direccioón MAC é o identificador único asignado polo fabricante a unha tarxeta de rede (como unha tarxeta inhalambrica ou unha tarxeta ethernet).
+
+<LI> Se dous ordenadores teñen a misma MAC poden comunicarse entre eles?- Non poden ter a misma MAC dous ordenadores.
+
+
+
+</UL>
+
+<IMG SRC= "mac.jpg" >
+<p>
+<A href=index.html> volver á páxina principal    </a>
+</p>
+
+
+</body>
+</html>

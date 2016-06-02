@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</HEAD>
+<BODY bgcolor="#82CAFA">
+ <hr>		
+
+<UL>
+<LI>Red centralizada: todos los nodos menos uno son periféricos y sólo pueden comunicarse a través del nodo central.
+<LI>
+</UL>
+
+<IMG SRC= "lan.jpg" height= "300" width="300">
+<p>
+<A href=index.html> volver á páxina principal    </a>
+</p>
+
+
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+<HTML>
+<HEAD>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</HEAD>
+<BODY bgcolor="#82CAFA">
+ <hr>		
+
+<UL>
+<LI>Una dirección IP es una etiqueta numérica que identifica, de manera lógica y jerárquica, a un interfaz (elemento de comunicación/conexión) de un dispositivo (habitualmente una computadora) dentro de una red que utilice el protocolo IP (Internet Protocol).
+
+
+<LI> Averigua o comando de linux que nos permite ver a IP privada- Depende da máscara de subrede.
+
+
+<LI> Nesta páxina na que descubrimos máis información podemos descubrir a nosa IP pública- IP pública: 193.144.37.48
+
+
+<LI> Cal é a diferencia entre unha IP publica e unha privada?-
+IP publica: É a que ten asignada a calquera equipo o dispositivo conectado de forma directa a internet. Algunhos exemplos son: Os servidores que aloxan sitios web como google.
+
+IP privada: Utilizase para identificar equipos ou dispositivos dentro dunha rede doméstica ou privada.
+
+<LI>
+
+
+
+</UL>
+
+<IMG SRC= "ip.jpg" >
+<p>
+<A href=index.html> volver á páxina principal    </a>
+</p>
+
+
+</body>
+</html>
+
+
+
+
+
